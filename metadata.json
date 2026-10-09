@@ -1,0 +1,6 @@
+{
+  "name": "Sawtify Studio - Arabic & Moroccan Darija Voiceover Engine",
+  "description": "Professional marketing voiceover studio tailored for Arabic and Moroccan Darija scripts. Features multiple male/female voices, hype/sales/dramatic tone conditioning, speaking rate and emphasis controls, and instant MP3/WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
